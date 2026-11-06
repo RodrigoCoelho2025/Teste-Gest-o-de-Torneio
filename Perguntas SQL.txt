@@ -1,0 +1,10 @@
+1. Formador , Turma e Curso.
+
+2. Formador - Id, Nome, Nº de Identificação e Data de Nascimento
+   Turma - Id, Designação da Turma e Data de Criação
+   Curso - Id, Nome, Data de Inicio e Carga Horaria
+
+3. 1 turma para muitos formadores, muitas turmas para muitos cursos.
+
+4. a. Id_Formador, Id_Turma, Id_Curso
+   b. Curso_Id_Curso, Turma_Id_Turma
